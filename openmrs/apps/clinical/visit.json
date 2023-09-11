@@ -5,7 +5,7 @@
         "printing": {
             "title": "Bahmni",
             "header": "Visit",
-            "logo": "../images/bahmniLogo.png"
+            "logo": "../images/lifeRythemLogo.png"
         },
         "defaultSections": true,
         "defaultSectionsExcludes": ["admissionDetails"],
@@ -74,7 +74,7 @@
         "printing": {
             "title": "Bahmni",
             "header": "Patient Visit Summary",
-            "logo": "../images/bahmniLogo.png"
+            "logo": "../images/lifeRythemLogo.png"
         },
         "sections": {
             "Patient Information": {

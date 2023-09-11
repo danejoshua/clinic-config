@@ -1,11 +1,11 @@
 {
   "homePage": {
-    "header_text": "<b>WELCOME TO<br />BAHMNI EMR FOR CLINICS",
-    "logo": "/bahmni/images/bahmniLogoFull.png",
+    "header_text": "<b>LifeRythem EMR</b>",
+    "logo": "/bahmni/images/lifeRythemLogoFull.png",
     "title_text": " "
   },
   "loginPage": {
-    "logo": "/bahmni/images/bahmniLogoFull.png",
+    "logo": "/bahmni/images/lifeRythemLogoFull.png",
     "showHeaderText": true,
     "showTitleText": false
   },

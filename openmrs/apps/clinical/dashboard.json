@@ -99,7 +99,7 @@
                 "prescriptionPrint": {
                     "title": "Bahmni",
                     "header": "Prescriptions",
-                    "logo": "../images/bahmniLogo.png"
+                    "logo": "../images/lifeRythemLogo.png"
                 }
             },
           "radiologyOrders":{
